@@ -1,4 +1,3 @@
-# api-test-automation-framework
 # API Automation Starter Framework
 
 This repository will contain a sample API automation framework demonstrating:
